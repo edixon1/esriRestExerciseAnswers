@@ -1,3 +1,5 @@
+##Author: Eliot Dixon
+
 library(sf)
 library(leaflet)
 library(geojsonsf)
